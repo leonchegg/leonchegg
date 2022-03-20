@@ -6,6 +6,7 @@ namespace Variables
     {
         static void Main(string[] args)
         {
+        
             byte health = 100;
             sbyte damage = 20;
 
